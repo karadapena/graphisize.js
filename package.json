@@ -1,0 +1,19 @@
+{
+  "name": "graphisize",
+  "version": "1.0.1",
+  "description": "A JavaScript tool used by the Miami Herald to make responsive, embeddable static graphics on its website (miamiherald.com).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisalcantara/graphisize.js.git"
+  },
+  "author": "Chris Alcantara",
+  "email": "calcantara@miamiherald.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisalcantara/graphisize.js/issues"
+  },
+  "homepage": "https://github.com/chrisalcantara/graphisize.js#readme",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
